@@ -11,7 +11,7 @@
 
 ![](hello_rekruto/static/images/img_2.png)
 ## Installation
-Создайте и заполните файл .env со следующими полями:
+Заполните файл .env:
 ```bash
 SECRET_KEY=
 ALLOWED_HOSTS=
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 ## Alternative Installation
-Создайте и заполните файл .env со следующими полями:
+Заполните файл .env:
 ```bash
 SECRET_KEY=
 ALLOWED_HOSTS=
